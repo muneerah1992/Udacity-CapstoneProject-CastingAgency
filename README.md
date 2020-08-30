@@ -50,7 +50,7 @@ password: executive_producer@casting.com123
 The Auth0 domain and api audience can be found in `setup.sh`.
 
 ## Test
-all tests can be found in Udacity_Casting_Agency_Tests.json within the project directory.
+all tests can be found in Udacity_Casting_Agency_Tests.postman_collection.json within the project directory.
 Import the postman collection then run.
 
 ## Endpoints
